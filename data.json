@@ -1,0 +1,26 @@
+[
+    {
+        "country": "France",
+        "iso_alpha2": "FR",
+        "metrics": {
+            "tourist_arrivals": 79300000,
+            "gdp_current_usd": 3049390000000,
+            "population": 68000000,
+            "area_km2": 551695,
+            "life_expectancy": 82.3
+        },
+        "last_updated": "2024-12-31"
+    },
+    {
+        "country": "United States",
+        "iso_alpha2": "US",
+        "metrics": {
+            "tourist_arrivals": 50500000,
+            "gdp_current_usd": 26700000000000,
+            "population": 334000000,
+            "area_km2": 9833520,
+            "life_expectancy": 77.2
+        },
+        "last_updated": "2024-12-31"
+    }
+]
