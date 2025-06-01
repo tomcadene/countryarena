@@ -1,64 +1,162 @@
 [
-    {
-      "country": "France",
-      "iso_alpha2": "FR",
-      "metrics": {
-        "tourist_arrivals": {
-          "value": 79300000,
-          "source": "UNWTO",
-          "last_updated": "31/12/2024"
-        },
-        "gdp_current_usd": {
-          "value": 3049390000000,
-          "source": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=FR",
-          "last_updated": "31/12/2024"
-        },
-        "population": {
-          "value": 68000000,
-          "source": "INSEE",
-          "last_updated": "01/01/2024"
-        },
-        "area_km2": {
-          "value": 551695,
-          "source": "IGN",
-          "last_updated": "01/01/2023"
-        },
-        "life_expectancy": {
-          "value": 82.3,
-          "source": "https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=FR",
-          "last_updated": "31/12/2023"
-        }
-      }
-    },
-    {
-      "country": "United States",
-      "iso_alpha2": "US",
-      "metrics": {
-        "tourist_arrivals": {
-          "value": 50500000,
-          "source": "https://travel.trade.gov/tables/international-visitors/",
-          "last_updated": "31/12/2024"
-        },
-        "gdp_current_usd": {
-          "value": 26700000000000,
-          "source": "Bureau of Economic Analysis",
-          "last_updated": "31/12/2024"
-        },
-        "population": {
-          "value": 334000000,
-          "source": "US Census Bureau",
-          "last_updated": "01/07/2024"
-        },
-        "area_km2": {
-          "value": 9833520,
-          "source": "https://www.cia.gov/the-world-factbook/countries/united-states/",
-          "last_updated": "01/01/2024"
-        },
-        "life_expectancy": {
-          "value": 77.2,
-          "source": "CDC",
-          "last_updated": "31/12/2023"
-        }
+  {
+    "country": "France",
+    "iso_alpha2": "FR",
+    "metrics": {
+      "tourist_arrivals": {
+        "value": 102000000,
+        "source": "Wikipedia - World Tourism rankings",
+        "last_updated": "31/12/2024"
+      },
+      "gdp_current_usd": {
+        "value": 3030904000000,
+        "source": "Wikipedia - List of countries by GDP (nominal) - World Bank",
+        "last_updated": "31/12/2024"
       }
     }
-  ]
+  },
+  {
+    "country": "Germany",
+    "iso_alpha2": "DE",
+    "metrics": {
+      "tourist_arrivals": {
+        "value": 37000000,
+        "source": "Wikipedia - World Tourism rankings",
+        "last_updated": "31/12/2024"
+      },
+      "gdp_current_usd": {
+        "value": 4456081000000,
+        "source": "Wikipedia - List of countries by GDP (nominal) - World Bank",
+        "last_updated": "31/12/2024"
+      }
+    }
+  },
+  {
+    "country": "Greece",
+    "iso_alpha2": "GR",
+    "metrics": {
+      "tourist_arrivals": {
+        "value": 36000000,
+        "source": "Wikipedia - World Tourism rankings",
+        "last_updated": "31/12/2024"
+      },
+      "gdp_current_usd": {
+        "value": 238206000000,
+        "source": "Wikipedia - List of countries by GDP (nominal) - World Bank",
+        "last_updated": "31/12/2024"
+      }
+    }
+  },
+  {
+    "country": "Italy",
+    "iso_alpha2": "IT",
+    "metrics": {
+      "tourist_arrivals": {
+        "value": 57000000,
+        "source": "Wikipedia - World Tourism rankings",
+        "last_updated": "31/12/2024"
+      },
+      "gdp_current_usd": {
+        "value": 2254851000000,
+        "source": "Wikipedia - List of countries by GDP (nominal) - World Bank",
+        "last_updated": "31/12/2024"
+      }
+    }
+  },
+  {
+    "country": "Mexico",
+    "iso_alpha2": "MX",
+    "metrics": {
+      "tourist_arrivals": {
+        "value": 45000000,
+        "source": "Wikipedia - World Tourism rankings",
+        "last_updated": "31/12/2024"
+      },
+      "gdp_current_usd": {
+        "value": 1788887000000,
+        "source": "Wikipedia - List of countries by GDP (nominal) - World Bank",
+        "last_updated": "31/12/2024"
+      }
+    }
+  },
+  {
+    "country": "Spain",
+    "iso_alpha2": "ES",
+    "metrics": {
+      "tourist_arrivals": {
+        "value": 93000000,
+        "source": "Wikipedia - World Tourism rankings",
+        "last_updated": "31/12/2024"
+      },
+      "gdp_current_usd": {
+        "value": 1580695000000,
+        "source": "Wikipedia - List of countries by GDP (nominal) - World Bank",
+        "last_updated": "31/12/2024"
+      }
+    }
+  },
+  {
+    "country": "TH",
+    "iso_alpha2": "FR",
+    "metrics": {
+      "tourist_arrivals": {
+        "value": 35000000,
+        "source": "Wikipedia - World Tourism rankings",
+        "last_updated": "31/12/2024"
+      },
+      "gdp_current_usd": {
+        "value": 514945000000,
+        "source": "Wikipedia - List of countries by GDP (nominal) - World Bank",
+        "last_updated": "31/12/2024"
+      }
+    }
+  },
+  {
+    "country": "Turkey",
+    "iso_alpha2": "TR",
+    "metrics": {
+      "tourist_arrivals": {
+        "value": 60000000,
+        "source": "Wikipedia - World Tourism rankings",
+        "last_updated": "31/12/2024"
+      },
+      "gdp_current_usd": {
+        "value": 1108022000000,
+        "source": "Wikipedia - List of countries by GDP (nominal) - World Bank",
+        "last_updated": "31/12/2024"
+      }
+    }
+  },
+  {
+    "country": "United Kingdoms",
+    "iso_alpha2": "UK",
+    "metrics": {
+      "tourist_arrivals": {
+        "value": 60000000,
+        "source": "Wikipedia - World Tourism rankings",
+        "last_updated": "31/12/2024"
+      },
+      "gdp_current_usd": {
+        "value": 3340032000000,
+        "source": "Wikipedia - List of countries by GDP (nominal) - World Bank",
+        "last_updated": "31/12/2024"
+      }
+    }
+  },
+  {
+    "country": "United States",
+    "iso_alpha2": "US",
+    "metrics": {
+      "tourist_arrivals": {
+        "value": 72000000,
+        "source": "Wikipedia - World Tourism rankings",
+        "last_updated": "31/12/2024"
+      },
+      "gdp_current_usd": {
+        "value": 105000000000000,
+        "source": "Bureau of Economic Analysis",
+        "last_updated": "31/12/2024"
+      }
+    }
+  }
+]
