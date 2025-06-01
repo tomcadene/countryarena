@@ -6,12 +6,22 @@
       "tourist_arrivals": {
         "value": 102000000,
         "source": "Wikipedia - World Tourism rankings",
-        "last_updated": "31/12/2024"
+        "last_updated": "01/06/2025"
       },
       "gdp_current_usd": {
         "value": 3030904000000,
         "source": "Wikipedia - List of countries by GDP (nominal) - World Bank",
-        "last_updated": "31/12/2024"
+        "last_updated": "01/06/2025"
+      },
+      "population": {
+        "value": 68633000,
+        "source": "Wikipedia - List of countries and dependencies by population",
+        "last_updated": "01/06/2025"
+      },
+      "area_km2_total": {
+        "value": 643801,
+        "source": "Wikipedia - List of countries and dependencies by area",
+        "last_updated": "01/06/2025"
       }
     }
   },
@@ -22,12 +32,22 @@
       "tourist_arrivals": {
         "value": 37000000,
         "source": "Wikipedia - World Tourism rankings",
-        "last_updated": "31/12/2024"
+        "last_updated": "01/06/2025"
       },
       "gdp_current_usd": {
         "value": 4456081000000,
         "source": "Wikipedia - List of countries by GDP (nominal) - World Bank",
-        "last_updated": "31/12/2024"
+        "last_updated": "01/06/2025"
+      },
+      "population": {
+        "value": 83555478,
+        "source": "Wikipedia - List of countries and dependencies by population",
+        "last_updated": "01/06/2025"
+      },
+      "area_km2_total": {
+        "value": 357581,
+        "source": "Wikipedia - List of countries and dependencies by area",
+        "last_updated": "01/06/2025"
       }
     }
   },
@@ -38,12 +58,22 @@
       "tourist_arrivals": {
         "value": 36000000,
         "source": "Wikipedia - World Tourism rankings",
-        "last_updated": "31/12/2024"
+        "last_updated": "01/06/2025"
       },
       "gdp_current_usd": {
         "value": 238206000000,
         "source": "Wikipedia - List of countries by GDP (nominal) - World Bank",
-        "last_updated": "31/12/2024"
+        "last_updated": "01/06/2025"
+      },
+      "population": {
+        "value": 3030904000000,
+        "source": "Wikipedia - List of countries and dependencies by population",
+        "last_updated": "01/06/2025"
+      },
+      "area_km2_total": {
+        "value": 131957,
+        "source": "Wikipedia - List of countries and dependencies by area",
+        "last_updated": "01/06/2025"
       }
     }
   },
@@ -54,12 +84,22 @@
       "tourist_arrivals": {
         "value": 57000000,
         "source": "Wikipedia - World Tourism rankings",
-        "last_updated": "31/12/2024"
+        "last_updated": "01/06/2025"
       },
       "gdp_current_usd": {
         "value": 2254851000000,
         "source": "Wikipedia - List of countries by GDP (nominal) - World Bank",
-        "last_updated": "31/12/2024"
+        "last_updated": "01/06/2025"
+      },
+      "population": {
+        "value": 58922192,
+        "source": "Wikipedia - List of countries and dependencies by population",
+        "last_updated": "01/06/2025"
+      },
+      "area_km2_total": {
+        "value": 302068,
+        "source": "Wikipedia - List of countries and dependencies by area",
+        "last_updated": "01/06/2025"
       }
     }
   },
@@ -70,12 +110,22 @@
       "tourist_arrivals": {
         "value": 45000000,
         "source": "Wikipedia - World Tourism rankings",
-        "last_updated": "31/12/2024"
+        "last_updated": "01/06/2025"
       },
       "gdp_current_usd": {
         "value": 1788887000000,
         "source": "Wikipedia - List of countries by GDP (nominal) - World Bank",
-        "last_updated": "31/12/2024"
+        "last_updated": "01/06/2025"
+      },
+      "population": {
+        "value": 130417144,
+        "source": "Wikipedia - List of countries and dependencies by population",
+        "last_updated": "01/06/2025"
+      },
+      "area_km2_total": {
+        "value": 1964375,
+        "source": "Wikipedia - List of countries and dependencies by area",
+        "last_updated": "01/06/2025"
       }
     }
   },
@@ -86,28 +136,48 @@
       "tourist_arrivals": {
         "value": 93000000,
         "source": "Wikipedia - World Tourism rankings",
-        "last_updated": "31/12/2024"
+        "last_updated": "01/06/2025"
       },
       "gdp_current_usd": {
         "value": 1580695000000,
         "source": "Wikipedia - List of countries by GDP (nominal) - World Bank",
-        "last_updated": "31/12/2024"
+        "last_updated": "01/06/2025"
+      },
+      "population": {
+        "value": 49153849,
+        "source": "Wikipedia - List of countries and dependencies by population",
+        "last_updated": "01/06/2025"
+      },
+      "area_km2_total": {
+        "value": 505370,
+        "source": "Wikipedia - List of countries and dependencies by area",
+        "last_updated": "01/06/2025"
       }
     }
   },
   {
-    "country": "TH",
-    "iso_alpha2": "FR",
+    "country": "Thailand",
+    "iso_alpha2": "TH",
     "metrics": {
       "tourist_arrivals": {
         "value": 35000000,
         "source": "Wikipedia - World Tourism rankings",
-        "last_updated": "31/12/2024"
+        "last_updated": "01/06/2025"
       },
       "gdp_current_usd": {
         "value": 514945000000,
         "source": "Wikipedia - List of countries by GDP (nominal) - World Bank",
-        "last_updated": "31/12/2024"
+        "last_updated": "01/06/2025"
+      },
+      "population": {
+        "value": 65893593,
+        "source": "Wikipedia - List of countries and dependencies by population",
+        "last_updated": "01/06/2025"
+      },
+      "area_km2_total": {
+        "value": 513120,
+        "source": "Wikipedia - List of countries and dependencies by area",
+        "last_updated": "01/06/2025"
       }
     }
   },
@@ -118,12 +188,22 @@
       "tourist_arrivals": {
         "value": 60000000,
         "source": "Wikipedia - World Tourism rankings",
-        "last_updated": "31/12/2024"
+        "last_updated": "01/06/2025"
       },
       "gdp_current_usd": {
         "value": 1108022000000,
         "source": "Wikipedia - List of countries by GDP (nominal) - World Bank",
-        "last_updated": "31/12/2024"
+        "last_updated": "01/06/2025"
+      },
+      "population": {
+        "value": 85644944,
+        "source": "Wikipedia - List of countries and dependencies by population",
+        "last_updated": "01/06/2025"
+      },
+      "area_km2_total": {
+        "value": 783562,
+        "source": "Wikipedia - List of countries and dependencies by area",
+        "last_updated": "01/06/2025"
       }
     }
   },
@@ -134,12 +214,22 @@
       "tourist_arrivals": {
         "value": 60000000,
         "source": "Wikipedia - World Tourism rankings",
-        "last_updated": "31/12/2024"
+        "last_updated": "01/06/2025"
       },
       "gdp_current_usd": {
         "value": 3340032000000,
         "source": "Wikipedia - List of countries by GDP (nominal) - World Bank",
-        "last_updated": "31/12/2024"
+        "last_updated": "01/06/2025"
+      },
+      "population": {
+        "value": 3030904000000,
+        "source": "Wikipedia - List of countries and dependencies by population",
+        "last_updated": "01/06/2025"
+      },
+      "area_km2_total": {
+        "value": 68265209,
+        "source": "Wikipedia - List of countries and dependencies by area",
+        "last_updated": "01/06/2025"
       }
     }
   },
@@ -150,12 +240,22 @@
       "tourist_arrivals": {
         "value": 72000000,
         "source": "Wikipedia - World Tourism rankings",
-        "last_updated": "31/12/2024"
+        "last_updated": "01/06/2025"
       },
       "gdp_current_usd": {
         "value": 105000000000000,
         "source": "Bureau of Economic Analysis",
-        "last_updated": "31/12/2024"
+        "last_updated": "01/06/2025"
+      },
+      "population": {
+        "value": 340110988,
+        "source": "Wikipedia - List of countries and dependencies by population",
+        "last_updated": "01/06/2025"
+      },
+      "area_km2_total": {
+        "value": 9525067,
+        "source": "Wikipedia - List of countries and dependencies by area",
+        "last_updated": "01/06/2025"
       }
     }
   }
