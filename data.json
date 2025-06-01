@@ -1,26 +1,64 @@
 [
     {
-        "country": "France",
-        "iso_alpha2": "FR",
-        "metrics": {
-            "tourist_arrivals": 79300000,
-            "gdp_current_usd": 3049390000000,
-            "population": 68000000,
-            "area_km2": 551695,
-            "life_expectancy": 82.3
+      "country": "France",
+      "iso_alpha2": "FR",
+      "metrics": {
+        "tourist_arrivals": {
+          "value": 79300000,
+          "source": "UNWTO",
+          "last_updated": "31/12/2024"
         },
-        "last_updated": "2024-12-31"
+        "gdp_current_usd": {
+          "value": 3049390000000,
+          "source": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=FR",
+          "last_updated": "31/12/2024"
+        },
+        "population": {
+          "value": 68000000,
+          "source": "INSEE",
+          "last_updated": "01/01/2024"
+        },
+        "area_km2": {
+          "value": 551695,
+          "source": "IGN",
+          "last_updated": "01/01/2023"
+        },
+        "life_expectancy": {
+          "value": 82.3,
+          "source": "https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=FR",
+          "last_updated": "31/12/2023"
+        }
+      }
     },
     {
-        "country": "United States",
-        "iso_alpha2": "US",
-        "metrics": {
-            "tourist_arrivals": 50500000,
-            "gdp_current_usd": 26700000000000,
-            "population": 334000000,
-            "area_km2": 9833520,
-            "life_expectancy": 77.2
+      "country": "United States",
+      "iso_alpha2": "US",
+      "metrics": {
+        "tourist_arrivals": {
+          "value": 50500000,
+          "source": "https://travel.trade.gov/tables/international-visitors/",
+          "last_updated": "31/12/2024"
         },
-        "last_updated": "2024-12-31"
+        "gdp_current_usd": {
+          "value": 26700000000000,
+          "source": "Bureau of Economic Analysis",
+          "last_updated": "31/12/2024"
+        },
+        "population": {
+          "value": 334000000,
+          "source": "US Census Bureau",
+          "last_updated": "01/07/2024"
+        },
+        "area_km2": {
+          "value": 9833520,
+          "source": "https://www.cia.gov/the-world-factbook/countries/united-states/",
+          "last_updated": "01/01/2024"
+        },
+        "life_expectancy": {
+          "value": 77.2,
+          "source": "CDC",
+          "last_updated": "31/12/2023"
+        }
+      }
     }
-]
+  ]
